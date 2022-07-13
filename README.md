@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Karel Malý
+- 👋 Hi, I’m Karel Malý, curently student of University of Economy in Prague
 - 👀 I’m interested in finance, coding, sports
 - 🌱 I’m currently learning Python, HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on interesting projects and learning new stuff
