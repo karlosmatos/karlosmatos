@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karel</h1>
-<h3 align="center">A passionate backend developer from Czech republic</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karlosmatos&label=Profile%20views&color=0e75b6&style=flat" alt="karlosmatos" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karlosmatos" alt="karlosmatos" /></a> </p>
+<h3 align="center">A passionate backend developer and tech consultant from Czech republic</h3>
 
 - 🔭 I’m currently working on [Pipedrive Data Wizard](https://github.com/karlosmatos/visualisation_pd)
 
