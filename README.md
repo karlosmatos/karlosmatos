@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Karel</h1>
 <h3 align="center">A passionate backend developer and tech consultant from Czech republic</h3>
 
-- 🔭 I’m currently working on [Pipedrive Data Wizard](https://github.com/karlosmatos/visualisation_pd)
+- 🔭 I’m currently working on building products
 
-- 🌱 I’m currently learning **Docker, Kubernetes**
+- 🌱 I’m currently learning **NextJS / Typescript**
 
-- 👯 I’m looking to collaborate on **projects in Python**
+- 👯 I’m looking to collaborate on **projects in Python, NextJS**
 
 - 💬 Ask me about **Python**
 
