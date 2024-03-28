@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karel</h1>
-<h3 align="center">A passionate backend developer and tech consultant from Czech republic</h3>
+<h3 align="center">A passionate software engineer and tech consultant from Czech republic</h3>
 
 - 🔭 I’m currently working on building products
 
